@@ -1,0 +1,8 @@
+# PISA data files are not redistributed; download them from the OECD
+*.sav
+*.SAV
+*.csv
+*.zip
+data/
+.ipynb_checkpoints/
+__pycache__/
