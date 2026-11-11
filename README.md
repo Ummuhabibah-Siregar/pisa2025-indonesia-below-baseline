@@ -10,10 +10,10 @@ This repository contains the Python code that reproduces all results reported in
 |---|---|
 | `PISA2025_Indonesia_Below_Baseline_Analysis.ipynb` | Jupyter notebook with the complete analysis, organised in numbered sections that follow the manuscript |
 | `requirements.txt` | Python packages used |
-| `output/Results_PISA2025_Indonesia.xlsx` | All estimates produced by the notebook (one sheet per table) |
-| `output/Figure2_levels_by_group.png` | Figure 2 |
-| `output/Figure3_threshold_forest.png` | Figure 3 |
-| `output/Figure4_predicted_probabilities.png` | Figure 4 |
+| `Results_PISA2025_Indonesia.xlsx` | All estimates produced by the notebook (one sheet per table) |
+| `Figure2_levels_by_group.png` | Figure 2 |
+| `Figure3_threshold_forest.png` | Figure 3 |
+| `Figure4_predicted_probabilities.png` | Figure 4 |
 
 ## Data
 
